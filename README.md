@@ -1,6 +1,6 @@
 # Android 
 
-(https://google.com/Android 
+(https://github.com/microso2/appcenter-sdk-androidd 
 
 
 ## Quickstart
