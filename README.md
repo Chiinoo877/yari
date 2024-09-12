@@ -1,7 +1,7 @@
-# Yari
+# Android 
 
-![Testing](https://github.com/mdn/yari/workflows/Testing%20Yari/badge.svg)
-![Prod Build](https://github.com/mdn/yari/workflows/Prod%20Build/badge.svg)
+![Testing](https://google.com/Android 
+(https://google.com
 
 ## Quickstart
 
