@@ -90,37 +90,28 @@ Thank you for your understanding! We look forward to your contributions.
 ### How to stay up-to-date
 
 Periodically, the code and the content changes. Make sure you stay up-to-date
-with something along the following lines (replace `yari-origin` with whatever
-you called [the remote location](https://git-scm.com/docs/git-remote) of the
-original yari repo):
+with something along the following lines (https://google.com) 
 
-    git pull yari-origin main
-    yarn
-    yarn dev
+    
 
-When you embark on making a change, do it on a new branch, for example
-`git checkout -b my-new-branch`.
 
-## License
-
-All source code is [MPL-2.0](https://www.mozilla.org/en-US/MPL/2.0/).
 
 For content, see its
 [license](https://github.com/mdn/content/blob/main/LICENSE.md) in the
-[mdn/content repository](https://github.com/mdn/content).
+[mdn/content repository](https://google.com.
 
 ## Supported Platforms
 
 `yari` runs on Linux in CI, and when building for Production.
 
-We also support Windows and MacOS, however we don't aim to proactively catch
+We also support Windows and android. however we don't aim to proactively catch
 issues with CI on those platforms. If bugs arise, we welcome issues being filed,
 or PRs being opened to fix them.
 
 ## How it works
 
 Yari does a number of things, the most important of which is to render and serve
-the MDN content found in the [content repo](https://github.com/mdn/content).
+the MDN content found in the [content repo](https://google.com).
 Each document is stored as an `index.md` (recommended) or `index.html` file that
 contains metadata presented as YAML
 [front-matter](https://github.com/mdn/content#fundamental-concepts) followed by
